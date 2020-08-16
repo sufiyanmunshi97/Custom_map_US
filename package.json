@@ -1,0 +1,14 @@
+{
+  "name": "@d3/zoomable-raster-vector",
+  "main": "ad963150d477a576@187.js",
+  "version": "187.0.0",
+  "homepage": "https://observablehq.com/@d3/zoomable-raster-vector",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
